@@ -1,0 +1,280 @@
+/********************reset********************/
+
+.sqy-div-main{    
+    background-color:#fff;
+    border:1px solid transparent;
+    border-radius:4px;
+    border-color:#ddd;
+    box-shadow:0 1px 1px rgba(0,0,0,.05);
+    margin-bottom:20px;
+}
+.sqy-div-panel-default{
+margin-bottom:20px;
+background-color:#fff;
+border-radius:4px;
+box-shadow:0 1px 1px rgba(0,0,0,05);
+}
+.sqy-div-panel-heading{
+padding:10px 15px;
+border-top-left-radius:30px;
+border-top-right-radius:3px;
+}
+.sqy-div-panel-body{
+padding:15px;
+}
+.sqy-div-col-md-8{
+width:66.66666667%;
+float:left;
+position:relative;
+min-height:1px;
+padding-right:15px;
+padding-left:15px;
+}
+.sqy-div-panel{
+height:500px;
+margin-bottom:20px;
+background-color:#fff;
+border:1px;
+border-radius:4px;
+box-shadow:0 1px 1px rgba(0,0,0,.05);
+}
+.sqy-div-panel-heading{
+border-bottom:1px solid #eee;
+font-size:18px;
+padding:10px 15px;
+border-topleft-radius:3px;
+border-top-right-radius:3px;
+}
+.sqy-div-panel-body{
+word-wrap:break-word;
+word-break:normal;
+padding:15px;
+}
+
+.sqy-li{
+float:left;
+margin-bottom:-1px;
+position:relative;
+display:block;
+padding:10px 15px;
+margin:0;
+margin-right:2px;
+line-height:1.42857143;
+border:1px solid transparent;
+border-radius:4px 4px 0 0;
+}
+
+.sqy-active{
+	float: left;
+	margin-right: 2px;
+	margin-bottom: -1px;  
+	position: relative;
+	display: block;
+	list-style: none;
+}
+.sqy-nav{
+	position:relative;
+	display:block;
+	height: 42px;
+	border-bottom: 1px solid #ddd;
+	margin-bottom:20px;
+	z-index: 1;
+}
+.sqy-nav-a {
+	z-index: 2;
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	margin-right: 2px;
+	color: #555;
+	border-left: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 2px solid #FFF;
+	border-radius: 4px 4px 0px 0px;
+}
+.sqy-nav-a2 {
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	padding: 13px 15px;
+	border-radius: 4px 4px 0px 0px;
+	margin-right: 2px;
+	color: #23527c;
+}
+.sqy-nav-a2:hover {
+	box-sizing: border-box;
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	background: #F3F3F3;
+	margin-right: 2px;
+	color: #23527c;
+}
+
+.sqy-a{
+color:#555;
+cursor:default;
+background-color:#fff;
+border:1px solid #ddd;
+border-bottom-color:transparent;
+margin-right:2px;
+line-height:1.42857143;
+border-radius:4px 4px 0 0;
+position:relative;
+display:block;
+padding:10px 15px;
+}
+.sqy-ul{
+padding:0;
+margin:0;
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+.sqy-setting{
+margin-top:20px;
+min-height:300px;
+}
+.sqy-form{
+padding:0;
+margin:0;
+}
+.sqy-form-group{
+margin-bottom:15px;
+margin-right:-15px;
+margin-left:-15px;
+}
+
+.sqy-col-md-8{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+/*lable*/
+.sqy-control-label{
+    padding-top: 10px;
+    margin-bottom: 0;
+    text-align: right;
+}
+.sqy-col-md-2{
+	width:20%;
+	float:left;
+	position:relative;
+	min-height:1px;
+	padding-right:15px;
+	padding-left:15px;
+}
+/*lable*/
+.sqy-col-md-6{
+width:60%;
+float:left;
+position:relative;
+min-height:1px;
+padding-right:30px;
+padding-left:15px;
+}
+.sqy-col-md-5{
+width:55%;
+float:left;
+position:relative;
+min-height:1px;
+padding-right:30px;
+padding-left:15px;
+}
+.sqy-col-sm-offset-3{
+margin-left:25%;
+}
+.sqy-col-sm-9{
+width:75%;
+float:left;
+position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    }
+.sqy-alert-avatar{
+margin-top:20px;
+}
+.sqy-alert-info{
+color:#31708f;
+background-color:#d9edf7;
+border-color:#bce8f1;
+}
+.sqy-alert{
+padding:15px;
+margin-bottom:20px;
+border:1px solid transparent;
+border-radius:4px;
+}
+.sqy-form-control{
+display:block;
+width:100%;
+margin-bottom:20px;
+padding:6px 12px;
+font-size:14px;
+line-height:1.42857143;
+color:#555;
+background-image:none;
+border:1px solid #ccc;
+border-radius:4px;
+box-shadow:inset 0 1px 1px rgba(0,0,0,.075);
+}
+.sqy-div-help-block{
+display:block;
+margin-top:5px;
+margin-bottom:10px;
+}
+.sqy-btn-primary{
+color:#fff;
+background-color:#337ab7;
+border-color:#2e6da4;
+}
+.sqy-div-btn{
+display:inline-block;
+padding:6px 12px;
+margin-bottom:0;
+font-size:14px;
+font-height:1.42857143;
+text-align:center;
+white-space:nowrap;
+vertical-align:middle;
+touch-action:manipulation;
+cursor:pointer;
+-webkit-user-select: none;
+background-image: none;
+border: 1px solid transparent;
+border-radius: 4px;
+}
+
+/*usermessage2.jsp*/
+.large_avatar {
+	width: 100px;
+	height: 100px;
+}
+.middle_avatar {
+	width: 48px;
+	height: 48px;
+}
+
+.small_avatar {
+	width: 24px;
+	height: 24px;
+}
+.usermessage2-dj-preview {
+	position: relative;
+	top: 10px;
+	left: 20px;
+	border: 1 solid #808080;
+	background: #E0E0E0;
+	width: 600px;
+	height: 20px;
+	color: #F00;
+	padding: 5px;
+}
+/*usermessage2.jsp*/

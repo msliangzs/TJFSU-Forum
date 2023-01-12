@@ -1,0 +1,409 @@
+
+/********************reset********************/
+.loginbgclass{
+	width:100%; height:100%; position:absolute; 
+	background:url(../img/login-bg.jpg); 
+	background-repeat: no-repeat;background-position: center;background-size: cover;background-size: cover;
+}
+.registerbgclass{
+	width:100%; height:100%; position:absolute; 
+	background:url(../img/main-bg.jpg); 
+	background-repeat: no-repeat;background-position: center;background-size: cover;background-size: cover;
+}
+.mainclass{
+	width:100%; height:100%; position:absolute; 
+	background:url(../img/beijing.jpg); 
+	background-repeat: no-repeat;background-position: center;background-size: cover;background-size: cover;
+}
+body,div,dl,dt,dd,ul,ol,li,pre,h1,h2,h3,h4,h5,h6, 
+form,fieldset,input,textarea,p,blockquote,th,td { 
+  padding: 0; 
+  margin: 0; 
+} 
+table { 
+  border-collapse: collapse; 
+  border-spacing: 0; 
+} 
+fieldset,img { 
+  border: 0; 
+} 
+address,caption,cite,code,dfn,em,strong,th,var { 
+  font-weight: normal; 
+  font-style: normal;
+} 
+ol,ul { 
+  list-style: none; 
+} 
+caption,th { 
+  text-align: left; 
+} 
+h2,h3,h4,h5,h6 { 
+  font-weight: normal; 
+  font-size: 100%; 
+} 
+ 
+abbr,acronym { 
+  border: 0; 
+}
+a{
+  text-decoration:none;
+}
+h1{
+  font:normal normal normal 40px;
+  text-align:center;
+  text-shadow: 1px 1px 7px #999;
+}
+p{
+  text-align:left;
+}
+
+body {
+	background: #E0E0E0;
+}
+.kuangjia-div-main {
+	width: 970px;
+	margin: 0px auto;	
+	box-sizing: border-box;
+	position: relative; top: 65px;
+	
+	min-height: 1000px;	
+}
+.div-maincontener { 
+	height: auto;
+	width: 100%;
+	margin: 0px auto;
+	float: none;
+	clear: both;
+	position: relative;
+}
+
+.div-content {		
+	width: 100%;
+	margin: 0px auto;	
+	box-sizing: border-box;
+	position: relative; top: 65px;
+	height: 1000px;	
+}
+.div-contentleft {		
+	width: 70%;
+	height: auto;
+	margin: 0px auto;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	position: relative;
+	float: right;
+	
+}
+.div-contentright {		
+	width: 20%;
+	height: auto;
+	margin: 0px auto;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	position: relative;
+	float: right;
+	
+}
+/********************reset********************/
+
+/********************welcome.jsp********************/
+
+/*****menu*****/
+.index-div-menu {	
+	width: 100%;
+  	height: 50px;
+	box-shadow: 1px 1px 1px #999;
+	box-sizing: content-box;
+	position: fixed;
+	background: #333;
+	z-index: 100;
+}
+.index-div-menu1 {	
+	width: 100%;
+	height: 50px;
+	margin: 0px auto;
+	float: none;
+}
+.index-div-ulmain {	
+	width: auto;
+	height: auto;
+	float: left;
+}
+#index-ul-mainNav {	
+	/*position: absolute;
+	left: 470px;
+	top: 0;
+	width: 870px;
+	height: 80px;*/
+	list-style: none;
+}
+#index-ul-mainNav li {	
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	list-style: none;
+}
+.index-a-logo {
+	font-weight:bold;	
+}
+#index-ul-mainNav li a {	
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 6px;
+    color: #9d9d9d;
+}
+#index-ul-mainNav li a:hover {	
+    color: #fff;
+}
+
+.index-div-control1 {	
+	position: relative; top: 9px; left: 5px;
+	width: 179px;
+	height: 40px;
+	display: inline-block;
+	margin-bottom: 0;
+	vertical-align: middle;
+}
+.index-form-control1 {
+    display: block;
+    width: 100%;
+    height: 34px;
+	padding-left: 5px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.indec-div-ulmain2 {	
+	width: auto;
+	height: auto;
+	float: right;
+	margin-right: 10px;
+}
+.indec-div-ulmain3 {
+	width: auto;
+	height: auto;
+	float: left;
+	margin-right: 10px;
+}
+#index-ul-reandlo {		
+	width: auto;
+	height: 50px;
+	list-style: none;
+}
+#index-ul-reandlo li {		
+	padding: 0 10px;
+	text-align: center;
+	float: left;
+	font-size: 16px;
+}
+#index-ul-reandlo li a {	
+	display: block;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 6px;
+    color: #9d9d9d;
+}
+#index-ul-reandlo li a:hover {
+	color: #fff;
+}
+/*****menu*****/
+
+
+/*****bottom*****/
+.index-div-bottommian1 {	
+	width: 100%;
+	float: none;
+	margin: 0 auto;	
+	background: #333;
+	position: ; bottom: 0px;
+	box-shadow: 1px 1px 1px #999;
+	z-index: 100;
+}
+.index-div-bottommian1 a{	
+	color: #68696d;
+}
+.index-div-bottommian {
+	width: 100%;
+	float: none;
+	margin: 0 auto;	
+	background: #333;
+	position: absolute; bottom: 0px;
+	box-shadow: 1px 1px 1px #999;
+	z-index: 100;
+}
+/* .index-div-bottom {    
+	text-align: center;
+	margin: 0 auto;
+	width: 950px; 
+	height: 100px;
+	color: #68696d;
+}  */
+.index-div-bottom a {
+	color: #68696d;
+}
+.index-div-bottom a:hover {
+	color: #CCC;
+}
+/*****bottom*****/
+
+/***************index.jsp***************/
+.navbar-right {
+    float: right;
+    margin-right: -15px;
+}
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+.navbar-nav {
+    margin: 7.5px -15px;
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+/**/
+.navbar-nav > li {
+    float: left;
+}
+.nav > li {
+    position: relative;
+    display: block;
+}
+.dropdown {
+    position: relative;
+}
+/**/
+.dropdown-toggle {	
+	position: relative;
+    display: block;
+    padding: 10px 15px;
+	background-color: transparent;
+	color: #9d9d9d;
+}
+/**/
+.dropdown-toggle1 {	
+	position: relative;
+    display: block;
+    padding: 0px 15px;
+    padding-top:5px;
+	background-color: transparent;
+	color: #9d9d9d;
+	font-size: 18px;
+}
+.dropdown-toggle:hover {	/**/
+	color: #fff;
+}
+.navbar-nav > li > .dropdown-menu {
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.navbar-right .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 100px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+.dropdown-menu a {
+	color: black;
+	font-size:15px;
+	position: relative;
+    display: block;
+    padding: 10px 15px;
+	background-color: transparent;
+}
+.dropdown-menu a:hover {
+	color: #262626;
+	text-decoration: none;
+	background-color: #f5f5f5;	
+}
+.dropdown-menu a:linked {
+	color: black;
+}
+/**/
+.dropdown {
+    position: relative;
+}
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+.divider {
+    height: 1px;
+    margin: 1px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+/***************index.jsp***************/
+
+/********************welcome.jsp********************/
+
+/********************add.jsp********************/
+.add-form-group {	
+    margin-bottom: 15px;
+}
+.add-form-control {	
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+textarea.add-form-control {
+    height: auto;
+}
+/********************add.jsp********************/

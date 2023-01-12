@@ -1,0 +1,278 @@
+/*****底部标签-*****/
+.register-div-bottommian {	/**底部框架*/
+	width: 100%;
+	float: none;
+	margin: 0 auto;	
+	background: #333;
+	position: absolute;	bottom: 0px;
+	box-shadow: 1px 1px 1px #999;
+	z-index: 100;
+}
+.register-div-bottom {    /*底部*/
+	text-align: center;
+	margin: 0 auto;
+	width: 950px; 
+	height: 100px;
+	color: #68696d;
+} 
+.register-div-bottom a {
+	color: #68696d;
+}
+.register-div-bottom a:hover {
+	color: #CCC;
+}
+/*****底部标签-*****/
+
+.div-container {	/*loginin.html/register.html div框架*/
+	width: 460px;
+	height: auto;
+	margin: 0px auto;
+	box-sizing: content-box;
+	float: none;
+	position: relative; top: 80px;
+}
+
+/*********************************/
+.div-landr-tipmessage {
+	margin: 0px auto;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+/*********************************/
+
+
+/****login and register start*****/
+.div-loginandregister-main {
+	width: 460px;
+	height: auto;
+	/*min-height: 100%;*/
+	box-sizing: border-box;
+	margin: 0px auto;
+	margin-top: -5px;	/*取消间隙*/
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background: #FFF;	/*test*/
+	border-left: 1px solid #e4ecf3;
+	border-right: 1px solid #e4ecf3;
+	border-bottom: 1px solid #e4ecf3;
+}
+.div-loginandregister-adiv {
+	width: 458px;
+	height: 65px;
+	box-sizing: content-box;
+	display: inline-block;
+	margin: 0px auto;
+	border-left: 1px solid #e4ecf3;
+	border-right: 1px solid #e4ecf3;
+	border-top: 1px solid #e4ecf3;
+}
+#a-header {		/*标题*/
+	width: 228px;
+	height: 65px;
+	margin: 0px auto;
+	padding: 20px;
+	box-sizing: border-box;
+	float: left;
+	text-align: center;
+	display: inline-block;
+	background: #FFF;	
+	color: #000;
+}
+#a-header1 {	/*标题*/
+	width: 230px;
+	height: 65px;
+	margin: 0px auto;
+	padding: 20px;
+	box-sizing: border-box;
+	float: left;
+	text-align: center;
+	display: inline-block;
+	background: #f5f5f5;
+	color: #000;
+}
+#a-header1:hover {
+	background-color: #FAFAFA;
+}
+
+.div-logininandregister-inputmain {		/*用于包装控件*/
+	width: 338px;
+	height:	90px;
+	margin: 0px auto;
+}
+
+.div-logininandregister-other {	/*记住密码、同意条款*/
+	width: 338px;
+	height:	40px;
+	margin: 0px auto;
+}
+
+/*lable*/
+#loginlable1 {	/*控件标题*/
+	width: 70px;
+	height: 24px;
+	display: inline-block;
+	margin-bottom: 5px;
+
+	box-sizing: border-box;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 24px;
+	color: #000;	
+}
+/*lable*/
+/*input*/
+
+#login-input1, #login-password, #login-account, #register-account, #register-password, #register-password1 {		/*正常控件按钮*/
+	width: 338px;
+	height: 40px;
+	color: #616161;
+	line-height: 1.3333333;
+	
+	box-sizing: border-box;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	
+	border: 2px solid #333;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #333;
+    border-right-color: #333;
+    border-bottom-color: #333;
+    border-left-color: #333;
+	border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+	
+	font-size: 14px;
+}
+#login-vcode, #register-vcode {		/**验证码**/
+	width: 169px;
+	height: 40px;
+	color: #616161;
+	line-height: 1.3333333;
+	
+	box-sizing: border-box;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	
+	border: 2px solid #333;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #333;
+    border-right-color: #333;
+    border-bottom-color: #333;
+    border-left-color: #333;
+	border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+	
+	font-size: 14px;
+}
+/*input*/
+/****login and register endd*****/
+
+
+
+/****login start*****/
+.div-loginin-username-message {	/*login-username-message*/
+	margin: 0px auto;
+}
+
+.div-loginin-password-message {	/*login-password-message*/
+	margin: 0px auto;
+}
+#a-loginin-password {	/*忘记密码 */
+	float: right;
+	color: #333;
+}
+
+.div-loginin-submit {	/*login-submit*/
+	width: 338px;
+	margin: 0px auto;
+	color: #FFF;
+}
+#div-loginin-submit1 {	/*login-submit*/
+	width: 338px;
+	height:	40px;
+	margin: 0px auto;
+	background: #333;
+	text-align: center; 
+	color: #FFF;
+	
+	border: 1px solid transparent;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+	border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+}
+#div-loginin-submit1:hover {
+	background: #1E1E1E;
+	cursor: pointer;	/*更改鼠标指针*/
+}
+/****login end*****/
+
+/****register start*****/
+
+#a-register-agreement {
+	color: #333;
+	font-size: 14px;
+}
+/****register end*****/ 
