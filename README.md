@@ -17,29 +17,29 @@
 <img src="https://user-images.githubusercontent.com/64625073/212075648-d5c2e36c-c4ac-4676-8ade-96068b70bad9.png" width="600">
 
 ## 首页
-<img src="https://user-images.githubusercontent.com/64625073/212075805-c4c98ec0-afed-4cfb-b4f7-509b55a2c0ce.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260216-68a23f7f-8b59-4ac1-848a-e487e13b072f.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/64625073/212077746-68fd524e-22fe-4d87-8ec7-0e4a6fb2beb7.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260239-5bf1c33b-242c-44fa-81a1-eec4299a9e9f.png" width="600">
 
 ## 发布/浏览帖子 
-<img src="https://user-images.githubusercontent.com/64625073/212076457-6e6989bc-7c37-4e40-a040-0be87386af81.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260310-0e769b75-18f5-4d23-aab2-eb71db0462db.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/64625073/212076789-84d019fb-5b7c-4d2f-9811-53dcb7d5e601.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260314-c88281e8-a14a-4acc-a4bc-d922c5162976.png" width="600">
 
 <img src="https://user-images.githubusercontent.com/64625073/212076913-b6b0c671-569d-433f-a1a3-b4491e9b1f6e.png" width="600">
 
-<img src="https://user-images.githubusercontent.com/64625073/212077101-64a07a54-422b-48f1-a4da-26044b5da2c7.png" width="600">
 
 ## 板块/模块
-<img src="https://user-images.githubusercontent.com/64625073/212078168-59c2c28a-5219-4b8f-8342-916b5182d993.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260393-c247ffef-62ff-4f72-ae82-277b1b3f43f2.png" width="600">
 
 <img src="https://user-images.githubusercontent.com/64625073/212078523-f8075349-0891-4c11-bebb-49ec4cd0c6a3.png" width="600">
 
 ## 公告通知
-<img src="https://user-images.githubusercontent.com/64625073/212078767-78c16c71-7119-491f-ab3d-bdee60f4a396.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260407-55572425-1dbe-468f-98f8-310fc4590e95.png" width="600">
 
 <img src="https://user-images.githubusercontent.com/64625073/212078831-db469d7d-eaec-46a2-86e5-ac1d486c607e.png" width="600">
 
 ## 用户管理
-<img src="https://user-images.githubusercontent.com/64625073/212078985-700f45ca-4d41-4221-98ed-d517763d8a2a.png" width="600">
+<img src="https://user-images.githubusercontent.com/64625073/215260436-2f2b57ed-696a-4a32-bef9-122b024c0af0.png" width="600">
+
 
